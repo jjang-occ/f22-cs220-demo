@@ -16,6 +16,7 @@ int main()
   cout << "Hello world!" << endl;
   cout << "I added this locally." << endl;
   cout << "My friend added this and pushed it." << endl;
+  cout << "More local changes." << endl;
   return 0;
 }
 ```
